@@ -41,7 +41,7 @@
 		class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://localhost/projeto_alex" />
+		<property name="url" value="jdbc:mysql://localhost/projeto_girlane" />
 		<property name="username" value="root" />
 		<property name="password" value="root" />
 	</bean>
